@@ -1,0 +1,36 @@
+css
+/*reset dasar*/
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*body*/
+body {
+    background: #ffffff;
+    color: #000000
+}
+/*heading*/
+h1{
+    color: #000000;
+    text-align: center;
+    font-size: 50px;
+}
+h2, h3{
+    color: #000000;
+}
+/*link*/
+a {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+/*garis pemisah*/
+hr{
+    border: none;
+    border-top: 1px solid #334155;
+}
